@@ -1,7 +1,7 @@
 # mini_proj2
 mini_proj2: Prediction and Classification
 
-This is the Mini Project 2 Information. There are few files in this FOLDER, an 18-minute presentation slide Deck which is targeted towards medium-level Audience. Two co-lab *.ipynb files, which explain the step-by-step process of execution of PREDICTION of housing Value in California, and CLASSIFICATION of stroke data. one results.pickle file which stores the best result of the prediction problem (Problem1). There are many models in both PREDICTION and CLASSIFICATION problems, so all these pickle files will add to the complexity of the code. So only one pickle file is created for a best result for prediction problem. 
+This is the Mini Project 2 Information. There are few files in this FOLDER, an 18-minute presentation slide Deck which is targeted towards medium-level Audience. Two co-lab *.ipynb files, which explain the step-by-step process of execution of PREDICTION of housing Value in California, and CLASSIFICATION of stroke data. one results.pickle file which stores the best result of the prediction problem (Problem1). There are many models in both PREDICTION and CLASSIFICATION problems, so all these pickle files will add to the complexity of the code. So only one pickle file is created for a best result of prediction problem. 
 
 Details: 
 Problem 1: To build a Regression Model to Predict the "median_house_value in California
