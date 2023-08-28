@@ -9,7 +9,9 @@ Problem 1: To build a Regression Model to Predict the "median_house_value in Ca
 
 Problem Statement: Exploring Available Data related to housing in California for (1) Insights, and (2) Predicting House Value.
 
+
 Solution: Applying Machine Learning Algorithms such as Univariant, and Multi Variant linear Regression with  Regularization.
+(https://github.com/venuannamdas/mini_proj2/blob/master/2_1.ipynb) 
 
 Estimate (a)  median_house_value using 
          (b) several independent variables, and finally, 
