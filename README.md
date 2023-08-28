@@ -1,7 +1,7 @@
 # mini_proj2
 mini_proj2: Prediction and Classification
 
-This is Mini Project 2 Information file. There are 3 files in this FOLDER, an 18 minutes presentation slide Deck which is targeted towards medium-level Audience. Two co-lab *.ipynb files, which explain step by step process of  execution of PREDICTION of housing Value in California, and CLASSIFICATION of stroke data. 
+This is the Mini Project 2 Information. There are 3 files in this FOLDER, an 18-minute presentation slide Deck which is targeted towards medium-level Audience. Two co-lab *.ipynb files, which explain the step-by-step process of execution of PREDICTION of housing Value in California, and CLASSIFICATION of stroke data. 
 
 Details: 
 Problem 1: To build a Regression Model to Predict the "median_house_value in California
