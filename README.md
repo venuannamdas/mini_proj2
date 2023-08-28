@@ -6,6 +6,7 @@ This is Mini Project 2 Information file. There are 3 files in this FOLDER, an 18
 Details: 
 Problem 1: To build a Regression Model to Predict the "median_house_value in California
 (https://github.com/venuannamdas/mini_proj2/assets/132436298/91dcba1d-ddcc-4e42-88e5-633cefaa4d38)
+
 Problem Statement: Exploring Available Data related to housing in California for (1) Insights, and (2) Predicting House Value.
 
 Solution: Applying Machine Learning Algorithms such as Univariant, and Multi Variant linear Regression with  Regularization.
@@ -16,6 +17,7 @@ Estimate (a)  median_house_value using
 
 Problem 2: Build a classification model to predict stroke (= 1/0)
 https://github.com/venuannamdas/mini_proj2/assets/132436298/863b0b7b-d472-4ad1-8610-ed3206a57ad8)
+
 Problem Statement: Exploring Available Data related to stroke for classification as (a) stroke (=1) (b) no stroke (=0) (c) Data Insights, and (d)convergence 
 
 Solution: Application of six Machine Learning Algorithms/strategies such as  (1) logistic regression 
