@@ -21,7 +21,9 @@ Problem 2: Build a classification model to predict stroke (= 1/0)
 
 Problem Statement: Exploring Available Data related to stroke for classification as (a) stroke (=1) (b) no stroke (=0) (c) Data Insights, and (d)convergence 
 
-Solution: Application of six Machine Learning Algorithms/strategies such as  (1) logistic regression 
+Solution: Application of six Machine Learning Algorithms/strategies such as  
+(https://github.com/venuannamdas/mini_proj2/blob/master/2_2.ipynb )
+    (1) logistic regression 
     (2) logistic regression-Regularization. 
     (3) Support Vector Machine, 
     (4) SVM-Hyper tuned 
